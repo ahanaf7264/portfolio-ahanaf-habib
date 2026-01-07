@@ -218,3 +218,9 @@ nav a{
 #resume{
 padding-top: 130px;
 }
+
+#resume .section-heading .resume-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
